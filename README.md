@@ -1,2 +1,2 @@
 # Course-Design
-2018 C++ Course Design backup.
+Course Design backup.
